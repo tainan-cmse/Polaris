@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-03-31_1733",
+    "name": "polaris",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -23,17 +23,29 @@
         "display7Size": 1.2,
         "display4Font": "Jost",
         "display4Size": 1.1,
-        "isRoundedButtons": false,
-        "isGhostButtonBorder": false,
-        "underlinedLinks": false,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isRoundedButtons": true,
+        "isGhostButtonBorder": true,
+        "underlinedLinks": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       }
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.5.2",
     "siteFonts": [],
     "imageResize": true,
+    "chatbutton": {},
+    "favicon": "@PROJECT_PATH@/assets/images/noun-restaurant-2111231.svg",
+    "mbrsiteDomain": "wc4fqh3aqm",
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "pwa-switcher": false,
     "uniqCompNum": 2,
     "versionPublish": "5.5.2"
   },
@@ -41,7 +53,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "德聚感琴。行前說明",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
